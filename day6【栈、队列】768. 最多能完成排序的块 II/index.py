@@ -13,7 +13,7 @@ class Solution:
 
 
 obj = Solution()
-# res=obj.maxChunksToSorted([2,1,3,2,4,6,7])
-res=obj.maxChunksToSorted([5,1,1,8,1,6,5,9,7,8])
+res=obj.maxChunksToSorted([2,1,3,2,4,6,7])
+# res=obj.maxChunksToSorted([5,1,1,8,1,6,5,9,7,8])
 print(res)
 # obj.maxChunksToSorted([2,1,3,4,4])
